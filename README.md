@@ -1,2 +1,2 @@
 #PracticeGit
-this repository helps me practice git
+this repository helps me practice git.
